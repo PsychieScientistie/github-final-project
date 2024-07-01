@@ -1,1 +1,7 @@
-The purpose of this project is to calculate simple interest (using python). It is to host all the data from the SVN to Git.
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
